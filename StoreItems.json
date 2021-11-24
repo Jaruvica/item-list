@@ -3,7 +3,7 @@
 	{
 		"abr": "abyssiniancat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_CatAbyssinian"
 	},
 	{
@@ -105,7 +105,7 @@
 	{
 		"abr": "alligator",
 		"price": 1250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Alligator"
 	},
 	{
@@ -141,7 +141,7 @@
 	{
 		"abr": "alpaca",
 		"price": 583,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Alpaca"
 	},
 	{
@@ -153,13 +153,13 @@
 	{
 		"abr": "alpacawool",
 		"price": 4,
-		"category": "Textiles",
+		"category": "Wools",
 		"defname": "WoolAlpaca"
 	},
 	{
 		"abr": "alphabeaver",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Alphabeaver"
 	},
 	{
@@ -291,7 +291,7 @@
 	{
 		"abr": "anaconda",
 		"price": 1292,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Anaconda"
 	},
 	{
@@ -399,14 +399,8 @@
 	{
 		"abr": "arcticcoyote",
 		"price": 250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_ArcticCoyote"
-	},
-	{
-		"abr": "arcticcoyotemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_ArcticCoyote"
 	},
 	{
 		"abr": "arcticdrone",
@@ -417,7 +411,7 @@
 	{
 		"abr": "arcticfox",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Fox_Arctic"
 	},
 	{
@@ -435,7 +429,7 @@
 	{
 		"abr": "arcticwolf",
 		"price": 583,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Wolf_Arctic"
 	},
 	{
@@ -525,7 +519,7 @@
 	{
 		"abr": "badger",
 		"price": 458,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Badger"
 	},
 	{
@@ -585,7 +579,7 @@
 	{
 		"abr": "beagle",
 		"price": 167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Beagle"
 	},
 	{
@@ -615,7 +609,7 @@
 	{
 		"abr": "beaver",
 		"price": 200,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Beaver"
 	},
 	{
@@ -783,7 +777,7 @@
 	{
 		"abr": "bengalcat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_CatBengal"
 	},
 	{
@@ -873,7 +867,7 @@
 	{
 		"abr": "bison",
 		"price": 583,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Bison"
 	},
 	{
@@ -885,7 +879,7 @@
 	{
 		"abr": "bisonwool",
 		"price": 4,
-		"category": "Textiles",
+		"category": "Wools",
 		"defname": "WoolBison"
 	},
 	{
@@ -909,7 +903,7 @@
 	{
 		"abr": "blackbear",
 		"price": 1167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_BlackBear"
 	},
 	{
@@ -963,7 +957,7 @@
 	{
 		"abr": "boomalope",
 		"price": 583,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Boomalope"
 	},
 	{
@@ -975,13 +969,13 @@
 	{
 		"abr": "boombat",
 		"price": 250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Boombat"
 	},
 	{
 		"abr": "boomrat",
 		"price": 167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Boomrat"
 	},
 	{
@@ -1011,7 +1005,7 @@
 	{
 		"abr": "britishshorthaircat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_CatBritishShorthair"
 	},
 	{
@@ -1065,19 +1059,13 @@
 	{
 		"abr": "camel",
 		"price": 533,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Camel"
-	},
-	{
-		"abr": "camelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_Camel"
 	},
 	{
 		"abr": "camelwool",
 		"price": 4,
-		"category": "Textiles",
+		"category": "Wools",
 		"defname": "WoolCamel"
 	},
 	{
@@ -1143,7 +1131,7 @@
 	{
 		"abr": "capybara",
 		"price": 250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Capybara"
 	},
 	{
@@ -1155,7 +1143,7 @@
 	{
 		"abr": "caribou",
 		"price": 500,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Caribou"
 	},
 	{
@@ -1167,7 +1155,7 @@
 	{
 		"abr": "cassowary",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Cassowary"
 	},
 	{
@@ -1179,7 +1167,7 @@
 	{
 		"abr": "cat",
 		"price": 167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Cat"
 	},
 	{
@@ -1245,7 +1233,7 @@
 	{
 		"abr": "cheetah",
 		"price": 667,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Cheetah"
 	},
 	{
@@ -1317,7 +1305,7 @@
 	{
 		"abr": "chicken",
 		"price": 83,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Chicken"
 	},
 	{
@@ -1341,13 +1329,13 @@
 	{
 		"abr": "chihuahua",
 		"price": 550,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Chihuahua"
 	},
 	{
 		"abr": "chinchilla",
 		"price": 250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Chinchilla"
 	},
 	{
@@ -1443,7 +1431,7 @@
 	{
 		"abr": "cobra",
 		"price": 250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Cobra"
 	},
 	{
@@ -1509,7 +1497,7 @@
 	{
 		"abr": "corgi",
 		"price": 1083,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Corgi"
 	},
 	{
@@ -1533,7 +1521,7 @@
 	{
 		"abr": "cougar",
 		"price": 667,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Cougar"
 	},
 	{
@@ -1551,7 +1539,7 @@
 	{
 		"abr": "cow",
 		"price": 500,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Cow"
 	},
 	{
@@ -1563,14 +1551,8 @@
 	{
 		"abr": "coyote",
 		"price": 250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Coyote"
-	},
-	{
-		"abr": "coyotemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_Coyote"
 	},
 	{
 		"abr": "craftingbook",
@@ -1623,7 +1605,7 @@
 	{
 		"abr": "crocodile",
 		"price": 1333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Crocodile"
 	},
 	{
@@ -1737,7 +1719,7 @@
 	{
 		"abr": "deer",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Deer"
 	},
 	{
@@ -1767,7 +1749,7 @@
 	{
 		"abr": "deserttortoise",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_DesertTortoise"
 	},
 	{
@@ -1821,7 +1803,7 @@
 	{
 		"abr": "donkey",
 		"price": 533,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Donkey"
 	},
 	{
@@ -1881,7 +1863,7 @@
 	{
 		"abr": "dromedary",
 		"price": 500,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Dromedary"
 	},
 	{
@@ -1911,7 +1893,7 @@
 	{
 		"abr": "duck",
 		"price": 100,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Duck"
 	},
 	{
@@ -2049,7 +2031,7 @@
 	{
 		"abr": "elephant",
 		"price": 1000,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Elephant"
 	},
 	{
@@ -2073,7 +2055,7 @@
 	{
 		"abr": "elk",
 		"price": 500,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Elk"
 	},
 	{
@@ -2139,7 +2121,7 @@
 	{
 		"abr": "emu",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Emu"
 	},
 	{
@@ -2217,7 +2199,7 @@
 	{
 		"abr": "fennecfox",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Fox_Fennec"
 	},
 	{
@@ -2403,7 +2385,7 @@
 	{
 		"abr": "frenchbulldog",
 		"price": 250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_FrenchBulldog"
 	},
 	{
@@ -2481,7 +2463,7 @@
 	{
 		"abr": "gazelle",
 		"price": 250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Gazelle"
 	},
 	{
@@ -2493,13 +2475,13 @@
 	{
 		"abr": "germanshepherd",
 		"price": 750,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_GermanShepherd"
 	},
 	{
 		"abr": "gilamonster",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_GilaMonster"
 	},
 	{
@@ -2513,12 +2495,6 @@
 		"price": 20,
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggGilaMonsterUnfertilized"
-	},
-	{
-		"abr": "gilamonstermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_GilaMonster"
 	},
 	{
 		"abr": "gin",
@@ -2541,7 +2517,7 @@
 	{
 		"abr": "giraffe",
 		"price": 1083,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Giraffe"
 	},
 	{
@@ -2577,7 +2553,7 @@
 	{
 		"abr": "goat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Goat"
 	},
 	{
@@ -2613,7 +2589,7 @@
 	{
 		"abr": "goose",
 		"price": 150,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Goose"
 	},
 	{
@@ -2631,7 +2607,7 @@
 	{
 		"abr": "gorilla",
 		"price": 917,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Gorilla"
 	},
 	{
@@ -2691,7 +2667,7 @@
 	{
 		"abr": "greatdane",
 		"price": 1083,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_GreatDane"
 	},
 	{
@@ -2721,7 +2697,7 @@
 	{
 		"abr": "grizzlybear",
 		"price": 1167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Bear_Grizzly"
 	},
 	{
@@ -2733,7 +2709,7 @@
 	{
 		"abr": "guineapig",
 		"price": 250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "GuineaPig"
 	},
 	{
@@ -2799,7 +2775,7 @@
 	{
 		"abr": "hare",
 		"price": 83,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Hare"
 	},
 	{
@@ -2877,7 +2853,7 @@
 	{
 		"abr": "hedgehog",
 		"price": 42,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Hedgehog"
 	},
 	{
@@ -2943,7 +2919,7 @@
 	{
 		"abr": "hippopotamus",
 		"price": 1333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Hippopotamus"
 	},
 	{
@@ -3003,7 +2979,7 @@
 	{
 		"abr": "horse",
 		"price": 917,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Horse"
 	},
 	{
@@ -3051,7 +3027,7 @@
 	{
 		"abr": "husky",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Husky"
 	},
 	{
@@ -3081,7 +3057,7 @@
 	{
 		"abr": "hyena",
 		"price": 308,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Hyena"
 	},
 	{
@@ -3117,7 +3093,7 @@
 	{
 		"abr": "ibex",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Ibex"
 	},
 	{
@@ -3171,7 +3147,7 @@
 	{
 		"abr": "iguana",
 		"price": 167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Iguana"
 	},
 	{
@@ -3225,14 +3201,8 @@
 	{
 		"abr": "indianelephant",
 		"price": 1000,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_IndianElephant"
-	},
-	{
-		"abr": "indianelephantmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AEXP_IndianElephant"
 	},
 	{
 		"abr": "industrialdumpster",
@@ -3369,7 +3339,7 @@
 	{
 		"abr": "jaguar",
 		"price": 667,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Jaguar"
 	},
 	{
@@ -3399,7 +3369,7 @@
 	{
 		"abr": "kangaroo",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Kangaroo"
 	},
 	{
@@ -3447,7 +3417,7 @@
 	{
 		"abr": "koala",
 		"price": 125,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Koala"
 	},
 	{
@@ -3471,7 +3441,7 @@
 	{
 		"abr": "labradorretriever",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "LabradorRetriever"
 	},
 	{
@@ -3681,7 +3651,7 @@
 	{
 		"abr": "lemur",
 		"price": 250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Lemur"
 	},
 	{
@@ -3705,7 +3675,7 @@
 	{
 		"abr": "lion",
 		"price": 2000,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Lion"
 	},
 	{
@@ -3831,7 +3801,7 @@
 	{
 		"abr": "lynx",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Lynx"
 	},
 	{
@@ -3873,13 +3843,13 @@
 	{
 		"abr": "mainecoon",
 		"price": 1250,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_CatMaineCoon"
 	},
 	{
 		"abr": "mandrill",
 		"price": 458,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Mandrill"
 	},
 	{
@@ -3999,13 +3969,13 @@
 	{
 		"abr": "megascarab",
 		"price": 167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Megascarab"
 	},
 	{
 		"abr": "megascorpion",
 		"price": 167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Megascorpion"
 	},
 	{
@@ -4017,7 +3987,7 @@
 	{
 		"abr": "megasloth",
 		"price": 1167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Megasloth"
 	},
 	{
@@ -4029,19 +3999,19 @@
 	{
 		"abr": "megaslothwool",
 		"price": 4,
-		"category": "Textiles",
+		"category": "Wools",
 		"defname": "WoolMegasloth"
 	},
 	{
 		"abr": "megaspider",
 		"price": 833,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Megaspider"
 	},
 	{
 		"abr": "megawolverine",
 		"price": 1417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_MegaWolverine"
 	},
 	{
@@ -4233,7 +4203,7 @@
 	{
 		"abr": "monkey",
 		"price": 167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Monkey"
 	},
 	{
@@ -4251,7 +4221,7 @@
 	{
 		"abr": "moose",
 		"price": 750,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Moose"
 	},
 	{
@@ -4269,7 +4239,7 @@
 	{
 		"abr": "muffalo",
 		"price": 500,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Muffalo"
 	},
 	{
@@ -4281,7 +4251,7 @@
 	{
 		"abr": "muffalowool",
 		"price": 4,
-		"category": "Textiles",
+		"category": "Wools",
 		"defname": "WoolMuffalo"
 	},
 	{
@@ -4293,13 +4263,13 @@
 	{
 		"abr": "munchkincat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_CatMunchkin"
 	},
 	{
 		"abr": "muskox",
 		"price": 475,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Muskox"
 	},
 	{
@@ -4311,7 +4281,7 @@
 	{
 		"abr": "muskoxwool",
 		"price": 12,
-		"category": "Textiles",
+		"category": "Wools",
 		"defname": "AEXP_MuskOxWool"
 	},
 	{
@@ -4425,7 +4395,7 @@
 	{
 		"abr": "norwegianforestcat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_CatNorwegianForest"
 	},
 	{
@@ -4533,7 +4503,7 @@
 	{
 		"abr": "ostrich",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Ostrich"
 	},
 	{
@@ -4545,7 +4515,7 @@
 	{
 		"abr": "otter",
 		"price": 283,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Otter"
 	},
 	{
@@ -4623,7 +4593,7 @@
 	{
 		"abr": "panther",
 		"price": 667,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Panther"
 	},
 	{
@@ -4683,7 +4653,7 @@
 	{
 		"abr": "penguin",
 		"price": 200,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Penguin"
 	},
 	{
@@ -4713,7 +4683,7 @@
 	{
 		"abr": "persiancat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_CatPersian"
 	},
 	{
@@ -4773,7 +4743,7 @@
 	{
 		"abr": "pig",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Pig"
 	},
 	{
@@ -4857,7 +4827,7 @@
 	{
 		"abr": "platypus",
 		"price": 200,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Platypus"
 	},
 	{
@@ -4893,19 +4863,19 @@
 	{
 		"abr": "polarbear",
 		"price": 1167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Bear_Polar"
 	},
 	{
 		"abr": "poodle",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Poodle"
 	},
 	{
 		"abr": "porcupine",
 		"price": 200,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Porcupine"
 	},
 	{
@@ -5325,7 +5295,7 @@
 	{
 		"abr": "pug",
 		"price": 500,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Pug"
 	},
 	{
@@ -5361,7 +5331,7 @@
 	{
 		"abr": "raccoon",
 		"price": 167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Raccoon"
 	},
 	{
@@ -5391,7 +5361,7 @@
 	{
 		"abr": "rat",
 		"price": 58,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Rat"
 	},
 	{
@@ -5403,7 +5373,7 @@
 	{
 		"abr": "rattlesnake",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Rattlesnake"
 	},
 	{
@@ -5457,13 +5427,13 @@
 	{
 		"abr": "redfox",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Fox_Red"
 	},
 	{
 		"abr": "redpanda",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_RedPanda"
 	},
 	{
@@ -5559,7 +5529,7 @@
 	{
 		"abr": "rhinoceros",
 		"price": 1167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Rhinoceros"
 	},
 	{
@@ -5583,7 +5553,7 @@
 	{
 		"abr": "rottweiler",
 		"price": 417,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Rottweiler"
 	},
 	{
@@ -5721,7 +5691,7 @@
 	{
 		"abr": "seal",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Seal"
 	},
 	{
@@ -5739,7 +5709,7 @@
 	{
 		"abr": "sheep",
 		"price": 350,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Sheep"
 	},
 	{
@@ -5751,7 +5721,7 @@
 	{
 		"abr": "sheepwool",
 		"price": 4,
-		"category": "Textiles",
+		"category": "Wools",
 		"defname": "WoolSheep"
 	},
 	{
@@ -5793,7 +5763,7 @@
 	{
 		"abr": "shih-tzu",
 		"price": 500,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Shih-Tzu"
 	},
 	{
@@ -5835,7 +5805,7 @@
 	{
 		"abr": "siamesecat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_CatSiamese"
 	},
 	{
@@ -6111,7 +6081,7 @@
 	{
 		"abr": "snowhare",
 		"price": 83,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Snowhare"
 	},
 	{
@@ -6141,7 +6111,7 @@
 	{
 		"abr": "somalicat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_CatSomali"
 	},
 	{
@@ -6177,13 +6147,13 @@
 	{
 		"abr": "spelopede",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Spelopede"
 	},
 	{
 		"abr": "sphynxcat",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_CatSphynx"
 	},
 	{
@@ -6237,7 +6207,7 @@
 	{
 		"abr": "squirrel",
 		"price": 58,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Squirrel"
 	},
 	{
@@ -6495,7 +6465,7 @@
 	{
 		"abr": "tapir",
 		"price": 458,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Tapir"
 	},
 	{
@@ -6669,7 +6639,7 @@
 	{
 		"abr": "thrumbo",
 		"price": 6667,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Thrumbo"
 	},
 	{
@@ -6693,7 +6663,7 @@
 	{
 		"abr": "tiger",
 		"price": 1083,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Tiger"
 	},
 	{
@@ -6711,7 +6681,7 @@
 	{
 		"abr": "timberwolf",
 		"price": 583,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Wolf_Timber"
 	},
 	{
@@ -6771,7 +6741,7 @@
 	{
 		"abr": "tortoise",
 		"price": 333,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Tortoise"
 	},
 	{
@@ -6843,7 +6813,7 @@
 	{
 		"abr": "turkey",
 		"price": 167,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Turkey"
 	},
 	{
@@ -7041,7 +7011,7 @@
 	{
 		"abr": "walrus",
 		"price": 917,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "AEXP_Walrus"
 	},
 	{
@@ -7071,7 +7041,7 @@
 	{
 		"abr": "warg",
 		"price": 750,
-		"category": "Animal",
+		"category": "Animals",
 		"defname": "Warg"
 	},
 	{
@@ -7133,7 +7103,379 @@
 		"price": 0,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Weaving_Queen"
-	}
+	},
+	{
+		"abr": "bionictongue",
+		"price": 942,
+		"category": "Bionic",
+		"defname": "BionicTongue"
+	},
+	{
+		"abr": "animalistslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "AnimalistSlab_Broad"
+	},
+	{
+		"abr": "animalistslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "AnimalistSlab_Medium"
+	},
+	{
+		"abr": "ark",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertArk"
+	},
+	{
+		"abr": "authoritycap",
+		"price": 92,
+		"category": "Headgear",
+		"defname": "Apparel_AuthorityCap"
+	},
+	{
+		"abr": "biosculpterpod",
+		"price": 758,
+		"category": "Misc",
+		"defname": "BiosculpterPod"
+	},
+	{
+		"abr": "blindfold",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "Apparel_Blindfold"
+	},
+	{
+		"abr": "bonsaipot",
+		"price": 82,
+		"category": "Furniture",
+		"defname": "PlantPot_Bonsai"
+	},
+	{
+		"abr": "box",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertBox"
+	},
+	{
+		"abr": "breachaxe",
+		"price": 197,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_BreachAxe"
+	},
+	{
+		"abr": "broadwrap",
+		"price": 111,
+		"category": "Headgear",
+		"defname": "Apparel_Broadwrap"
+	},
+	{
+		"abr": "burka",
+		"price": 224,
+		"category": "Apparel",
+		"defname": "Apparel_Burka"
+	},
+	{
+		"abr": "burnbong",
+		"price": 517,
+		"category": "Misc",
+		"defname": "Burnbong"
+	},
+	{
+		"abr": "cannibalplatter",
+		"price": 220,
+		"category": "Misc",
+		"defname": "CannibalPlatter"
+	},
+	{
+		"abr": "carnivorefinemeal",
+		"price": 33,
+		"category": "Meals",
+		"defname": "MealFine_Meat"
+	},
+	{
+		"abr": "carnivorelavishmeal",
+		"price": 67,
+		"category": "Meals",
+		"defname": "MealLavish_Meat"
+	},
+	{
+		"abr": "chalice",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertCup"
+	},
+	{
+		"abr": "christmastree",
+		"price": 263,
+		"category": "Misc",
+		"defname": "ChristmasTree"
+	},
+	{
+		"abr": "cube",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertCube"
+	},
+	{
+		"abr": "darklightbrazier",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "DarklightBrazier"
+	},
+	{
+		"abr": "drum",
+		"price": 205,
+		"category": "Recreation",
+		"defname": "Drum"
+	},
+	{
+		"abr": "effigy",
+		"price": 178,
+		"category": "Misc",
+		"defname": "Effigy"
+	},
+	{
+		"abr": "eggbox",
+		"price": 79,
+		"category": "Misc",
+		"defname": "EggBox"
+	},
+	{
+		"abr": "flophat",
+		"price": 74,
+		"category": "Headgear",
+		"defname": "Apparel_Flophat"
+	},
+	{
+		"abr": "fragment",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertFragment"
+	},
+	{
+		"abr": "gaswalldarklight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallDarkLight"
+	},
+	{
+		"abr": "gauranlenseed",
+		"price": 117,
+		"category": "Items",
+		"defname": "GauranlenSeed"
+	},
+	{
+		"abr": "gibbetcage",
+		"price": 210,
+		"category": "Misc",
+		"defname": "GibbetCage"
+	},
+	{
+		"abr": "headwrap",
+		"price": 75,
+		"category": "Headgear",
+		"defname": "Apparel_Headwrap"
+	},
+	{
+		"abr": "hilt",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertSwordHandle"
+	},
+	{
+		"abr": "immaturedryadmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dryad_Basic"
+	},
+	{
+		"abr": "incenseshrine",
+		"price": 272,
+		"category": "Misc",
+		"defname": "IncenseShrine"
+	},
+	{
+		"abr": "kneelpillow",
+		"price": 98,
+		"category": "Furniture",
+		"defname": "KneelPillow"
+	},
+	{
+		"abr": "kneelsheet",
+		"price": 281,
+		"category": "Furniture",
+		"defname": "KneelSheet"
+	},
+	{
+		"abr": "lectern",
+		"price": 227,
+		"category": "Misc",
+		"defname": "Lectern"
+	},
+	{
+		"abr": "lightball",
+		"price": 154,
+		"category": "Misc",
+		"defname": "LightBall"
+	},
+	{
+		"abr": "loudspeaker",
+		"price": 367,
+		"category": "Misc",
+		"defname": "Loudspeaker"
+	},
+	{
+		"abr": "morbidslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "MorbidSlab_Broad"
+	},
+	{
+		"abr": "morbidslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "MorbidSlab_Medium"
+	},
+	{
+		"abr": "neuralsupercharger",
+		"price": 408,
+		"category": "Misc",
+		"defname": "NeuralSupercharger"
+	},
+	{
+		"abr": "penmarker",
+		"price": 104,
+		"category": "Misc",
+		"defname": "PenMarker"
+	},
+	{
+		"abr": "pendant",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "RelicInertPendant"
+	},
+	{
+		"abr": "pew",
+		"price": 350,
+		"category": "Furniture",
+		"defname": "Pew"
+	},
+	{
+		"abr": "pyre",
+		"price": 230,
+		"category": "Misc",
+		"defname": "Pyre"
+	},
+	{
+		"abr": "reinforcedbarrel",
+		"price": 1000,
+		"category": "Items",
+		"defname": "ReinforcedBarrel"
+	},
+	{
+		"abr": "robe",
+		"price": 297,
+		"category": "Apparel",
+		"defname": "Apparel_Robe"
+	},
+	{
+		"abr": "rusticrug(broad)",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "RusticRug_Broad"
+	},
+	{
+		"abr": "rusticrug(medium)",
+		"price": 256,
+		"category": "Furniture",
+		"defname": "RusticRug_Medium"
+	},
+	{
+		"abr": "sacrificialflag",
+		"price": 198,
+		"category": "Misc",
+		"defname": "SacrificialFlag"
+	},
+	{
+		"abr": "shadecone",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "Apparel_Shadecone"
+	},
+	{
+		"abr": "skull",
+		"price": 8,
+		"category": "Items",
+		"defname": "Skull"
+	},
+	{
+		"abr": "skullspike",
+		"price": 101,
+		"category": "Misc",
+		"defname": "Skullspike"
+	},
+	{
+		"abr": "slabbed",
+		"price": 102,
+		"category": "Furniture",
+		"defname": "SlabBed"
+	},
+	{
+		"abr": "slabdoublebed",
+		"price": 288,
+		"category": "Furniture",
+		"defname": "SlabDoubleBed"
+	},
+	{
+		"abr": "slavebodystrap",
+		"price": 275,
+		"category": "Apparel",
+		"defname": "Apparel_BodyStrap"
+	},
+	{
+		"abr": "slavecollar",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "Apparel_Collar"
+	},
+	{
+		"abr": "sleepaccelerator",
+		"price": 458,
+		"category": "Misc",
+		"defname": "SleepAccelerator"
+	},
+	{
+		"abr": "slicecap",
+		"price": 62,
+		"category": "Headgear",
+		"defname": "Apparel_Slicecap"
+	},
+	{
+		"abr": "spikecorefloor-star(broad)",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "SpikecoreFloorStar_Broad"
+	},
+	{
+		"abr": "spikecorefloor-star(medium)",
+		"price": 323,
+		"category": "Furniture",
+		"defname": "SpikecoreFloorStar_Medium"
+	},
+	{
+		"abr": "standingdarklamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "Darklamp"
+	},
+	{
+		"abr": "stylingstation",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "StylingStation"
+	},
 	],
-	"total": 1242
+	"total": 1289
 }
